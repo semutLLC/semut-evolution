@@ -13,3 +13,11 @@ This repository investigates governance systems where project history, customer 
 The goal is not to remove human judgment, but to make project evolution more transparent, adaptive, and grounded in observable evidence.
 
 This repository contains research, experiments, and prototypes related to adaptive software governance.
+
+## Status
+
+This repository is an active research project.
+
+The ideas described here are hypotheses under exploration and may evolve as implementations, experiments, and community feedback provide new evidence.
+
+Semut documents both successful and unsuccessful ideas as part of the project's long-term evolution.
